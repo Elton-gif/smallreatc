@@ -1,0 +1,29 @@
+{
+  "blog" : [
+    
+        {"title":"My new blog",
+        "body":"lorem ipsum",
+        "author":"Susan",
+        "id":"1"
+    },
+    {
+        "title":"My new blog1",
+        "body":"lorem ipsum",
+        "author":"Jasmine",
+        "id":"2"
+    },
+    {
+        "title":"My new blog2",
+        "body":"lorem ipsum",
+        "author":"Ashley",
+        "id":"3"
+    },
+    {
+        "title":"My new blog41",
+        "body":"lorem ipsum",
+        "author":"Mulato",
+        "id":"4"
+    }
+    
+    ]
+}

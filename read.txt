@@ -1,0 +1,11 @@
+-useEffect 
+
+-use State
+
+-custom hooks
+
+
+-routes(switch,router,rout)
+anchor tag (a), forces react to make a request from the server instead use Link from react-router-dom
+useEffct cleeanup,abort controller
+const abortCont = new AbortController() - used to associate with the fetch used to
